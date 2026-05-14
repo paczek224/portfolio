@@ -1,0 +1,428 @@
+{
+  "name": "Łukasz Stanisław Pączek",
+  "title": "Senior Test Automation Engineer",
+  "badge": "test automation · API quality · banking & enterprise systems",
+  "tagline": "Java / Spring / Playwright / Rest Assured / CI/CD",
+  "summary": "Senior Test Automation Engineer and QA Lead with 10+ years of experience in banking, healthcare, e-commerce and enterprise systems. Builds and leads maintainable automation frameworks, API testing strategies, CI pipelines and quality metrics for complex delivery environments.",
+  "contact": {
+    "location": "Warsaw, Poland",
+    "phone": "796-457-984",
+    "email": "paczeklukasz90@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/Lukasz-Paczek",
+    "github": "https://github.com/paczek224/spring-rest-assured-playground"
+  },
+  "highlights": [
+    "Senior QA Lead managing a team of 4 automation testers",
+    "Migration of Selenium-based framework to Playwright",
+    "Automation frameworks for banking and healthcare applications",
+    "API testing with Rest Assured, contract testing with Pact, service virtualization with WireMock",
+    "Quality metrics and monitoring with Prometheus and Grafana"
+  ],
+  "resume": {
+    "label": "Download CV",
+    "url": "/cv.pdf"
+  },
+  "metrics": [
+    {
+      "value": "10+",
+      "label": "years in QA and test automation"
+    },
+    {
+      "value": "4",
+      "label": "automation testers led"
+    },
+    {
+      "value": "6",
+      "label": "major enterprise clients and domains"
+    },
+    {
+      "value": "API",
+      "label": "backend-first quality strategy"
+    }
+  ],
+  "caseStudies": [
+    {
+      "title": "Selenium to Playwright framework migration",
+      "problem": "A banking automation suite needed a more modern, reliable and maintainable browser automation stack.",
+      "role": "Led and implemented migration work while coordinating automation testers and keeping delivery stable.",
+      "result": "A Playwright-based direction with clearer modules, better maintainability and stronger confidence in critical web flows.",
+      "stack": [
+        "Java 17",
+        "Spring",
+        "Playwright",
+        "Selenium Grid",
+        "TestNG",
+        "Cucumber"
+      ]
+    },
+    {
+      "title": "Backend API quality for regulated systems",
+      "problem": "Fund management and healthcare systems required dependable API and integration validation beyond UI-only checks.",
+      "role": "Built and maintained backend-focused tests, SQL checks and API validation layers integrated with delivery pipelines.",
+      "result": "Faster feedback on service-level regressions and stronger coverage for business-critical flows.",
+      "stack": [
+        "Rest Assured",
+        "SQL",
+        "Spring",
+        "JUnit 5",
+        "Docker",
+        "GitLab"
+      ]
+    },
+    {
+      "title": "Quality metrics and observability",
+      "problem": "Teams needed better visibility into test status, system quality and automation outcomes.",
+      "role": "Prepared reporting and monitoring signals for tests and system metrics.",
+      "result": "Clearer quality dashboards and easier communication of risk, progress and system health.",
+      "stack": [
+        "Prometheus",
+        "Grafana",
+        "Jenkins",
+        "Elasticsearch",
+        "Kibana"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "author": "Filip Malmon",
+      "source": "LinkedIn",
+      "link": "https://pl.linkedin.com/in/filip-malmon",
+      "quote": "Łukasz demonstrated exceptional technical expertise and professionalism. His proactive approach to identifying potential issues early significantly improved overall code quality and reduced production risks.",
+      "fullText": "I worked closely with Łukasz during our collaboration on the Brown Brothers Harriman banking platform at SII. As the Senior Test Automation Engineer on our project, Łukasz demonstrated exceptional technical expertise and professionalism throughout our partnership. Łukasz consistently delivered comprehensive automated test suites that ensured the reliability and quality of our financial software solutions. His in-depth understanding of testing frameworks and banking domain requirements was evident in how thoroughly he approached complex testing scenarios. What impressed me most was his proactive approach to identifying potential issues early in the development cycle, which significantly improved our overall code quality and reduced production risks. Beyond his technical skills, Łukasz was an excellent collaborator who understood the importance of seamless integration between development and testing processes. His clear communication and systematic approach to problem-solving made our cross-functional work highly effective. He consistently provided valuable insights that helped shape our technical decisions and architectural choices. Łukasz brings both deep technical knowledge in test automation and strong collaborative skills to any project. His commitment to quality and attention to detail make him a valuable asset to any development team working on enterprise-scale applications. I highly recommend Łukasz and would welcome the opportunity to work with him again."
+    },
+    {
+      "author": "Marcin Koźbiał",
+      "source": "LinkedIn",
+      "link": "https://pl.linkedin.com/in/marcin-kozbial",
+      "quote": "Znakomita wiedza techniczna oraz wyjątkowo rozwinięte umiejętności miękkie. Łukasz rozwinie każdy zespół i każdy projekt na poziom wykraczający ponad przeciętną.",
+      "fullText": "Jeżeli istnieje Tester i Leader idealny to Łukasz byłby wzorcem dla tego opisu. Łukasz nie tylko znakomicie rozumie swój zespół lecz również jest przykładem do naśladowania. Znakomita wiedza techniczna oraz wyjątkowo rozwinięte umiejętności miękkie. W świecie IT takich osób jak Łukasz jest bardzo mało. Przez ponad 10 lat pracy nie poznałem nikogo takiego jak Łukasz. Rozwinie każdy zespół i każdy projekt na poziom, który wykracza ponad przeciętną."
+    }
+  ],
+  "cooperation": {
+    "headline": "Available for test automation architecture, API quality consulting and framework migration.",
+    "models": [
+      "Remote collaboration",
+      "B2B / contract work",
+      "Project-based delivery",
+      "Long-term QA automation support"
+    ],
+    "cta": "Need a reliable automation framework or API test strategy? Let's talk."
+  },
+  "services": [
+    {
+      "title": "Test Automation Architecture",
+      "description": "Design and development of scalable automation frameworks using Java, Spring, Playwright, Selenium, TestNG, JUnit 5 and Cucumber."
+    },
+    {
+      "title": "Backend & API Quality",
+      "description": "REST API validation, integration testing, contract testing, SQL checks and backend-focused test coverage with Rest Assured, Pact and WireMock."
+    },
+    {
+      "title": "CI/CD Quality Engineering",
+      "description": "Automation integrated with Jenkins, GitLab and GitHub Actions, supported by Docker, TestContainers and maintainable pipelines."
+    },
+    {
+      "title": "QA Leadership",
+      "description": "Planning, estimation, reporting, mentoring and coordination of automation work in Scrum, Kanban, SAFE and regulated banking environments."
+    },
+    {
+      "title": "Observability for Quality",
+      "description": "Monitoring and reporting test and system metrics using Prometheus, Grafana, Elasticsearch and Kibana."
+    },
+    {
+      "title": "Web & Accessibility Testing",
+      "description": "Manual and automated testing of web applications, mobile flows and WCAG-oriented accessibility validation."
+    }
+  ],
+  "approach": [
+    {
+      "title": "Frameworks that teams can maintain",
+      "description": "Automation is designed around clear structure, readable tests, reusable modules and documentation."
+    },
+    {
+      "title": "Backend-first confidence",
+      "description": "API, integration and data validation are treated as core quality signals, not as an afterthought."
+    },
+    {
+      "title": "Measured delivery",
+      "description": "Progress is visible through planning, estimates, metrics, dashboards and short feedback loops."
+    },
+    {
+      "title": "Pragmatic leadership",
+      "description": "Hands-on engineering combined with mentoring, coordination and clear communication with delivery teams."
+    }
+  ],
+  "skills": {
+    "testAutomation": [
+      "Java",
+      "Spring",
+      "Selenium",
+      "Selenium Grid",
+      "Playwright",
+      "TestNG",
+      "JUnit 5",
+      "Cucumber"
+    ],
+    "apiAndBackendTesting": [
+      "Rest Assured",
+      "SQL",
+      "SOAPUI",
+      "Kafka",
+      "Pact",
+      "WireMock",
+      "TestContainers"
+    ],
+    "ciCdAndDevOps": [
+      "Jenkins",
+      "GitLab",
+      "GitHub Actions",
+      "Docker",
+      "OpenShift"
+    ],
+    "observabilityAndData": [
+      "Prometheus",
+      "Grafana",
+      "Elasticsearch",
+      "Kibana"
+    ],
+    "qualityProcessAndLeadership": [
+      "Scrum",
+      "Kanban",
+      "SAFE",
+      "Waterfall",
+      "QTest",
+      "Zephyr",
+      "WCAG",
+      "Manual testing"
+    ],
+    "aiAssistedDelivery": [
+      "AI-assisted website creation",
+      "Prompting for frontend development",
+      "AI-assisted portfolio generation",
+      "LLM-based content structuring",
+      "AI agent workflow basics",
+      "Multi-agent project orchestration basics"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior QA Lead",
+      "company": "Sii Poland",
+      "client": "Brown Brothers Harriman & Co. (BBH)",
+      "location": "Rzeszów, Poland",
+      "period": "2022-08 - present",
+      "bullets": [
+        "Plans and estimates testing activities for fund management systems.",
+        "Designs and develops automated test scripts using Java 17, Spring, Playwright, Selenium Grid, TestNG and Cucumber.",
+        "Leads API testing with Rest Assured and manages test work in QTest.",
+        "Manages a team of 4 automation testers.",
+        "Migrates test framework from Selenium to Playwright.",
+        "Reports quality and system metrics with Prometheus and Grafana."
+      ],
+      "stack": [
+        "Java 17",
+        "Spring",
+        "Playwright",
+        "Selenium Grid",
+        "Rest Assured",
+        "Jenkins",
+        "Prometheus",
+        "Grafana"
+      ]
+    },
+    {
+      "role": "Senior Test Automation Engineer",
+      "company": "Sii Poland",
+      "client": "Roche",
+      "location": "Rzeszów, Poland",
+      "period": "2021-08 - 2022-08",
+      "bullets": [
+        "Built and maintained a Spring-based test automation framework.",
+        "Automated tests with Java 17, JUnit 5 and Playwright.",
+        "Delivered backend and API testing supported by Rest Assured and SQL.",
+        "Worked with CI, Docker, GitLab, planning and estimation."
+      ],
+      "stack": [
+        "Java 17",
+        "Spring",
+        "JUnit 5",
+        "Playwright",
+        "Rest Assured",
+        "SQL",
+        "Docker",
+        "GitLab"
+      ]
+    },
+    {
+      "role": "Test Developer",
+      "company": "Sii Poland",
+      "client": "Brown Brothers Harriman & Co. (BBH)",
+      "location": "Rzeszów, Poland",
+      "period": "2019-09 - 2021-08",
+      "bullets": [
+        "Designed and developed automated test scripts.",
+        "Automated tests using Java 17 and Selenium.",
+        "Validated APIs with Rest Assured and managed tests with QTest.",
+        "Supported CI/CD with Jenkins for banking applications."
+      ],
+      "stack": [
+        "Java 17",
+        "Selenium",
+        "Rest Assured",
+        "QTest",
+        "Jenkins"
+      ]
+    },
+    {
+      "role": "Quality Assurance Specialist",
+      "company": "Makeitright sp. z o.o.",
+      "client": "Trans.eu",
+      "period": "2018-09 - 2019-08",
+      "bullets": [
+        "Planned and estimated testing activities in SAFE environment.",
+        "Designed and executed automated tests.",
+        "Built test frameworks using Java 8, Spring, Selenium, TestNG and Cucumber.",
+        "Applied Jenkins for continuous integration and used Zephyr for test management."
+      ],
+      "stack": [
+        "Java 8",
+        "Spring",
+        "Selenium",
+        "TestNG",
+        "Cucumber",
+        "Jenkins",
+        "Zephyr"
+      ]
+    },
+    {
+      "role": "Quality Assurance Specialist",
+      "company": "PGS Software S.A.",
+      "client": "AllSaints",
+      "period": "2017-03 - 2018-09",
+      "bullets": [
+        "Tested web and mobile applications in Scrum and Kanban.",
+        "Automated tests with Java, Selenium WebDriver and Cucumber.",
+        "Used Git for version control.",
+        "Performed accessibility testing following WCAG guidelines."
+      ],
+      "stack": [
+        "Java",
+        "Selenium WebDriver",
+        "Cucumber",
+        "Git",
+        "WCAG"
+      ]
+    },
+    {
+      "role": "Software Tester",
+      "company": "SoftSystem Sp. z o.o.",
+      "period": "2015-11 - 2017-03",
+      "bullets": [
+        "Supported regression and smoke testing in Waterfall environment.",
+        "Created, maintained and executed test cases and scenarios.",
+        "Reported defects and collaborated with developers and business analysts.",
+        "Tested web services and APIs using SOAPUI and verified integrations and data flows."
+      ],
+      "stack": [
+        "Manual testing",
+        "Regression testing",
+        "Smoke testing",
+        "SOAPUI",
+        "API testing"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Spring Rest Assured Playground",
+      "description": "GitHub playground focused on Spring and Rest Assured API testing patterns.",
+      "link": "https://github.com/paczek224/spring-rest-assured-playground",
+      "stack": [
+        "Java",
+        "Spring",
+        "Rest Assured"
+      ]
+    },
+    {
+      "title": "Spring Boot Rest Assured Test",
+      "description": "Spring Boot API testing project focused on REST endpoint validation with Rest Assured.",
+      "link": "https://github.com/paczek224/spring-boot-rest-assured-test",
+      "stack": [
+        "Java",
+        "Spring Boot",
+        "Rest Assured",
+        "API testing"
+      ]
+    },
+    {
+      "title": "Rest Assured Test",
+      "description": "REST API testing examples and reusable patterns built around Rest Assured.",
+      "link": "https://github.com/paczek224/rest-assured-test",
+      "stack": [
+        "Java",
+        "Rest Assured",
+        "API testing"
+      ]
+    },
+    {
+      "title": "Python Playwright",
+      "description": "Browser automation and end-to-end testing examples using Python and Playwright.",
+      "link": "https://github.com/paczek224/python-playwright",
+      "stack": [
+        "Python",
+        "Playwright",
+        "E2E testing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "WSiZ",
+      "field": "Big Data",
+      "period": "2025-03 - 2026-02"
+    },
+    {
+      "school": "Professional English School",
+      "field": "English",
+      "period": "2016-01 - 2018-01"
+    },
+    {
+      "school": "University of Rzeszów",
+      "field": "Political Science",
+      "period": "2011-10 - 2014-07"
+    },
+    {
+      "school": "Tadeusz Rejtan Technical College",
+      "field": "Economy",
+      "period": "2006-09 - 2010-06"
+    }
+  ],
+  "certifications": [
+    {
+      "issuer": "NetAcad.com",
+      "name": "Cisco Python Essentials 1",
+      "date": "2025-06"
+    },
+    {
+      "issuer": "SJSI",
+      "name": "ISTQB Foundation Level",
+      "date": "2017-12"
+    },
+    {
+      "issuer": "SJSI",
+      "name": "ISTQB Agile Tester",
+      "date": "2017-12"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "B2"
+    },
+    {
+      "name": "Polish",
+      "level": "Native"
+    }
+  ]
+}

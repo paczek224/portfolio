@@ -1,0 +1,14 @@
+pyproject.toml
+src/portfolio_agents/__init__.py
+src/portfolio_agents/__main__.py
+src/portfolio_agents/agents.py
+src/portfolio_agents/config.py
+src/portfolio_agents/llm_client.py
+src/portfolio_agents/main.py
+src/portfolio_agents/models.py
+src/portfolio_agents/workspace.py
+src/portfolio_agents.egg-info/PKG-INFO
+src/portfolio_agents.egg-info/SOURCES.txt
+src/portfolio_agents.egg-info/dependency_links.txt
+src/portfolio_agents.egg-info/requires.txt
+src/portfolio_agents.egg-info/top_level.txt

@@ -1,0 +1,22 @@
+services:
+  backend:
+    image: portfolio-lp-backend
+    build:
+      context: ./backend
+    container_name: portfolio-backend
+    environment:
+      BACKEND_PORT: 8080
+    ports:
+      - "8080:8080"
+
+  frontend:
+    image: portfolio-lp
+    build:
+      context: ./frontend
+      args:
+        VITE_API_URL: ""
+    container_name: portfolio-frontend
+    depends_on:
+      - backend
+    ports:
+      - "8081:80"

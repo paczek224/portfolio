@@ -1,0 +1,11 @@
+Jan Kowalski
+Python Developer
+jan.kowalski@example.com
++48 500 600 700
+
+Doswiadczenie:
+Tworzylem aplikacje w Python, Java i Spring Boot.
+Pracowalem z React, SQL, Docker oraz Git.
+
+Projekty:
+Panel portfolio z API i prostym frontendem.

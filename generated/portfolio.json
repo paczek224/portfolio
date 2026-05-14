@@ -1,0 +1,34 @@
+{
+  "name": "Ł ukasz Stanis ł aw P ą czek",
+  "title": "Portfolio",
+  "summary": "Profil wygenerowany heurystycznie. Uruchom lokalny model, aby uzyskac lepszy opis.",
+  "skills": [
+    "Python",
+    "Java",
+    "SQL",
+    "Docker",
+    "Git"
+  ],
+  "experience": [
+    "Ł ukasz Stanis ł aw P ą czek",
+    "SENIOR TEST AUTOMATION ENGINEER",
+    "ŁP",
+    "PERSONAL INFO"
+  ],
+  "projects": [],
+  "services": [
+    "Backend API w Java i Spring Boot",
+    "Automatyzacja i narzedzia w Pythonie",
+    "Integracje danych i praca z bazami SQL",
+    "Konteneryzacja i przygotowanie srodowisk"
+  ],
+  "approach": [
+    "Szybkie zrozumienie celu i zakresu projektu.",
+    "Jasna komunikacja oraz male, regularne iteracje.",
+    "Rozwiazania budowane tak, aby dalo sie je utrzymywac."
+  ],
+  "contact": {
+    "email": "paczeklukasz90@gmail.com",
+    "phone": "796-457-984"
+  }
+}
